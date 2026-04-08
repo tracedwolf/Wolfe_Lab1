@@ -17,3 +17,4 @@ This is a simple C++ console application created for Git Lab 1
 ## Functions
 - void pass_fail_check(): No parameters, does not return.
 - void grade_calculator(): No parameters, Returns Nothing
+- void myFavoriteNumber(): No parameters, Returns Nothing
