@@ -7,7 +7,7 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello from Tyler! Hope this doesn't cause a merge conflict.\n";
+    cout << "Hello from Tyler! This is my first Git commit.\n";
     cout << "Git makes collaboration easy!\n";
     cout << "Changes made by Liana!\n";
     cout << "Lab 1 completed on April 8th, 2026!\n";
