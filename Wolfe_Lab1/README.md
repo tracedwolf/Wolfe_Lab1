@@ -13,3 +13,6 @@ This is a simple C++ console application created for Git Lab 1
 - Liana Dixon
 
 ## Changes made by Tyler Wolfe: Added a feature greeting
+
+## Functions
+- void pass_fail_check(): No parameters, does not return.
