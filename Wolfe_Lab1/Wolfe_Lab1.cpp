@@ -12,6 +12,11 @@ void pass_fail_check()
     cout << "Function called to check grade.\n";
 }
 
+void grade_calculator()
+{
+    cout << "'grade_calculator' function called.\n";
+}
+
 int main()
 {
     cout << "Hello from Tyler! This is my first Git commit.\n";
@@ -21,6 +26,8 @@ int main()
     cout << "Feature by Tyler: Branching is awesome!\n";
 
     cout << "Student ID: 12345 | Name: Tyler Wolfe\n";
+    grade_calculator();
+    pass_fail_check();
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
