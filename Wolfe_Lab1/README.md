@@ -13,3 +13,6 @@ This is a simple C++ console application created for Git Lab 1
 - Liana Dixon
 
 ## Changes made by Tyler Wolfe: Added a feature greeting
+
+## Features:
+- void grade_calculator(): No parameters, Returns Nothing
