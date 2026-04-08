@@ -11,6 +11,7 @@ int main()
     cout << "Git makes collaboration easy!\n";
     cout << "Changes made by Liana!\n";
     cout << "Lab 1 completed on April 8th, 2026!\n";
+    cout << "Feature by Tyler: Branching is awesome!\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
