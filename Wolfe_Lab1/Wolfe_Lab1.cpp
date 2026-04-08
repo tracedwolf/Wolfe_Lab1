@@ -3,12 +3,14 @@
 //
 
 #include <iostream>
+using namespace std;
 
 int main()
 {
-    std::cout << "Hello from Tyler! This is my first Git commit.\n";
-    std::cout << "Git makes collaboration easy!\n";
-    std::cout << "Changes made by Liana!\n";
+    cout << "Hello from Tyler! This is my first Git commit.\n";
+    cout << "Git makes collaboration easy!\n";
+    cout << "Changes made by Liana!\n";
+    cout << "Lab 1 completed on April 8th, 2026!\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
