@@ -2,8 +2,15 @@
 // Wolfe_Lab1.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
+
 #include <iostream>
 using namespace std;
+
+// Liana: A function called to check you grade and determine if you passed or failed.
+void pass_fail_check()
+{
+    cout << "Function called to check grade.\n";
+}
 
 void grade_calculator()
 {
@@ -20,6 +27,7 @@ int main()
 
     cout << "Student ID: 12345 | Name: Tyler Wolfe\n";
     grade_calculator();
+    pass_fail_check();
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu

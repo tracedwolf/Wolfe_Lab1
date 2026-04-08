@@ -14,5 +14,6 @@ This is a simple C++ console application created for Git Lab 1
 
 ## Changes made by Tyler Wolfe: Added a feature greeting
 
-## Features:
+## Functions
+- void pass_fail_check(): No parameters, does not return.
 - void grade_calculator(): No parameters, Returns Nothing
